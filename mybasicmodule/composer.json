@@ -1,0 +1,13 @@
+{
+    "name": "martynas/commentcontroller",
+    "description": "A controller that handle comments",
+    "autoload": {
+        "psr-4": {
+            "Mybasicmodule\\": "src/"
+        }
+    },
+    "config": {
+        "prepend-autoloader": false
+    },
+    "type": "prestashop-module"
+}
